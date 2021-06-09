@@ -1,24 +1,6 @@
-# README
+## Getting started with Rails 6.1, TailwindCSS JIT, Webpacker & PostCSS 8
+             
+This repo is detailsed in the following post.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Medium](https://davidteren.medium.com/rails-6-1-tailwindcss-jit-webpacker-postcss-8-16e03dbaebe1)
+- [Dev.to](https://dev.to/davidteren/getting-started-with-rails-6-1-tailwindcss-jit-webpacker-postcss-8-25g7)
