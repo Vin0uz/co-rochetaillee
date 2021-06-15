@@ -1,0 +1,1 @@
+web1: bundle exec rails webpacker:compile
