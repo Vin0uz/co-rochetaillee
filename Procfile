@@ -1,1 +1,2 @@
-web1: bundle exec rails webpacker:compile
+web: bundle exec puma -p $PORT
+release: bin/auto_migrate
