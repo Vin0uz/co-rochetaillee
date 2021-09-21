@@ -14,6 +14,11 @@
   </head>
 
   <body>
+    <% flash.each do |type, message| %>
+      <div>
+        <%= render "shared/flash_card", { alert_type: type, message: message } %>
+      </div>
+    <% end %>
     <%= yield %>
   </body>
 </html>
